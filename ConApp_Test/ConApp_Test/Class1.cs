@@ -7,5 +7,6 @@ namespace ConApp_Test
 {
     class Class1
     {
+        public string s;
     }
 }
